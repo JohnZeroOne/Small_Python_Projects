@@ -1,0 +1,20 @@
+[Challenge] What's My Number
+
+Between 1 and 1000, there are only 2 numbers that meet the following criteria. While it could be manually figured out with pen and paper, it would be much more efficient to write a program that would do this for you. With that being said, your goal is to find out which number meets these criteria.
+
+    The number has two or more digits.
+
+    The number is prime.
+
+    The number does NOT contain a 1 or 7 in it.
+
+    The sum of all of the digits is less than or equal to 10.
+
+    The first two digits add up to be odd.
+
+    The second to last digit is even.
+
+    The last digit is equal to how many digits are in the number.
+	
+	https://en.wikipedia.org/wiki/500_(number)#503
+	https://en.wikipedia.org/wiki/500_(number)#523
